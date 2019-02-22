@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Political Scientist
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a Ph.D. Candidate in the Department of Political Science at Texas A&M University.
+My research interests center on the political economy of armed conflict.
+My dissertation explores the relationship between alliance participation and military spending.
+Other working papers examine the political economy of intra-state conflict.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I publicly version-control all of my working papers, so manuscripts, data, and code are all available on [GitHub](https://github.com/joshuaalley).
