@@ -25,7 +25,7 @@ description: Political Science Ph.D. Candidate
 navbar-links:
   About Me: "aboutme"
   Research: "research"
-  Contect: "contact" 
+  Contact: "contact" 
   Resources:
     - TAMU Political Science: "https://pols.tamu.edu/" 
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
@@ -58,7 +58,7 @@ footer-link-col: "#404040"
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-# page-img: "/img/P7271086.JPG"
+page-img: "/img/P7271086.jpg"
 
 # --- Footer options --- #
 
