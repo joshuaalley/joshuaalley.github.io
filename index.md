@@ -14,4 +14,6 @@ My research interests center on the political economy of armed conflict.
 My dissertation explores the relationship between alliance participation and military spending.
 Other working papers examine the political economy of intra-state conflict.
 
+[Here is my CV](CV.pdf).
+
 I publicly version-control all of my working papers, so manuscripts, data, and code are all available on [GitHub](https://github.com/joshuaalley).
