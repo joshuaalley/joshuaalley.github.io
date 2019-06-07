@@ -6,7 +6,7 @@ permalink: /research/
 
 # Publications
 
--Jo, Hyeran, Phillips, Brian J. and Joshua Alley. 2019. "Can Blacklisting Reduce Terrorist Attacks?: The Case of the U.S. Foreign Terrorist Organization (FTO) List" in *The Power of Global Performance Indicators}, ed, Beth Simmons and Judith Kelley*. Cambridge University Press. 
+- Jo, Hyeran, Phillips, Brian J. and Joshua Alley. 2019. "Can Blacklisting Reduce Terrorist Attacks?: The Case of the U.S. Foreign Terrorist Organization (FTO) List" in *The Power of Global Performance Indicators}, ed, Beth Simmons and Judith Kelley*. Cambridge University Press. 
 
 - Jo, Hyeran and Joshua Alley. 2017. "Janus-faced: rebel groups and human rights responsibility" in
 *Expanding Rights*, ed, Alison Brysk. Edward Elgar Publishing.
