@@ -24,6 +24,7 @@ description: Political Science Ph.D. Candidate
 # List of links in the navigation bar
 navbar-links:
   Research: "research"
+  Teaching: "teaching" 
   Contact: "contact" 
   Resources:
     - TAMU Political Science: "https://pols.tamu.edu/" 
