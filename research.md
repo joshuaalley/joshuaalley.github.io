@@ -14,7 +14,7 @@ permalink: /research/
 
 # Working Papers
 
-- Alliances: Force Multiplier or Foreign Entanglement? - (2019)
+- Alliance Participation and Military Spending - (2019)
 - Reassessing the Public Goods Model of Alliances - (2019)
 - Post-Civil War Conflict Management Institutions and FDI -  with Caroline Hartzell (2019)
 - Countering the Adaptable and Resilient: U.S. Foreign Terrorist Organization (FTO) List and Terrorist Attacks - with Hyeran Jo and Brian Phillips (2019)
