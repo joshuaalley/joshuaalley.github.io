@@ -10,6 +10,7 @@ bigimg:
 ---
 
 I am a Ph.D. Candidate in the Department of Political Science at Texas A&M University.
+Starting in Fall 2020, I will be a Postdoctoral Research Associate with the [Democratic Statecraft Lab](http://statecraftlab.virginia.edu/) at the University of Virginia.
 My research interests center on the political economy of security, with a particular focus on formal institutions. 
 My dissertation explores the relationship between alliance participation and military spending.
 Other working papers examine the political economy of intra-state conflict.
