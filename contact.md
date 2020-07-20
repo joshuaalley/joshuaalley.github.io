@@ -5,12 +5,11 @@ permalink: /contact/
 ---
 
 # Email
-jkalley14 `[at]` tamu `[dot]` edu
+jkalley `[at]` virginia `[dot]` edu
 
 # Mailing Address
 
-Texas A&M University
-Department of Political Science
-Allen Building
-4348 TAMU
-College Station, TX 77843
+University of Virginia
+Democratic Statecraft Lab
+514 Brandon Avenue
+Charlottesville, VA 22903
