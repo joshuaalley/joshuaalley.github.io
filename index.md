@@ -1,12 +1,12 @@
 ---
 layout: page
 title: "Joshua K. Alley"
-subtitle: International Security
+subtitle: International Security & Alliance Politics
 css: "/css/index.css"
 meta-title: "Joshua Alley"
 meta-description: "Postdoctoral Research Associate at the University of Virginia"
 bigimg:
-  - "/img/tx-trail.png" : "Sam Houston National Forest" 
+  - "/img/tx-trail.png" 
 ---
 
 I am a Postdoctoral Research Associate with the [Democratic Statecraft Lab](http://statecraftlab.virginia.edu/) at the University of Virginia.
