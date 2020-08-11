@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Joshua K. Alley"
-subtitle: International Security & Alliance Politics
+subtitle: " "
 css: "/css/index.css"
 meta-title: "Joshua Alley"
 meta-description: "Postdoctoral Research Associate at the University of Virginia"
