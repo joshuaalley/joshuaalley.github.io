@@ -18,6 +18,6 @@ Other working papers examine the political economy of intra-state conflict.
 
 I recently received a Ph.D. from Texas A&M, and also hold a bachelor of arts from Gettysburg College (2015).  
 
-Together with Rosella Capella Zielinski, Kaija Schilde, Alexander Kirss and Ben Fordham, I am a co-organizing an online workship series in the Political Economy of Security. The workshop gives scholars opportunities to receive constructive feedback and discuss bridging the nexus of political economy and security. You can find the workshop schedule [here](http://www.bu.edu/pardeeschool/research/project-on-the-political-economy-of-security/). 
+Together with Rosella Capella Zielinski, Kaija Schilde, Alexander Kirss and Ben Fordham, I am co-organizing an online workship series in the Political Economy of Security. The workshop gives scholars opportunities to receive constructive feedback and discuss bridging the nexus of political economy and security. You can find the workshop schedule [here](http://www.bu.edu/pardeeschool/research/project-on-the-political-economy-of-security/). 
 
 I publicly version-control all of my solo-authored working papers, so manuscripts, data, and code are all available on [GitHub](https://github.com/joshuaalley).
