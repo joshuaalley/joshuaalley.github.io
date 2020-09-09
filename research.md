@@ -15,9 +15,9 @@ permalink: /research/
 
 # Working Papers
 
-- Alliance Participation, Treaty Depth and Military Spending - (2020)
+- Alliance Participation, Treaty Depth and Military Spending - (2020) *Revise and resubmit at International Studies Quarterly* 
 - Reassessing the Public Goods Model of Alliances - (2020)
-- Democracy, Electoral Competition, and Alliance Treaty Depth - (2020)
+- Democracy, Elections and Alliance Treaty Depth - (2020)
 - Post-Civil War Conflict Management Institutions and FDI -  with Caroline Hartzell (2020)
 - Countering the Adaptable and Resilient: U.S. Foreign Terrorist Organization (FTO) List and Terrorist Attacks - with Hyeran Jo and Brian Phillips (2020)
 - Collective Action or Exchange?: Framing International Cooperation in Alliance Politics - (2020) 
