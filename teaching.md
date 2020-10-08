@@ -11,8 +11,12 @@ permalink: /teaching/
 - [Course Website Spring 2020](https://joshuaalley.github.io/pols-209/)
 
 
+## [Github Repository of Articles and Replication Data for Political Science Articles with Cross-Sectional OLS](https://github.com/joshuaalley/cross-sectional-ols)
+
+This repository contains replication files and citations for papers with OLS estimators and cross-sectional data. It helps students find accessible materials for replication exercises of published studies.  
+
+
 ## Other Materials
 
 [*Syllabus for Undergraduate Course on the Political Economy of Armed Conflict*](POLS 351 Syllabus Alley.pdf) 
 
-[*Github Repository of Articles and Replication Data for Political Science Articles with Cross-Sectional OLS*](https://github.com/joshuaalley/cross-sectional-ols)
