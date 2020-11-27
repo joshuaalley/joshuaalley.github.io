@@ -16,7 +16,7 @@ permalink: /research/
 # Working Papers
 
 - Alliance Participation, Treaty Depth and Military Spending - (2020) *Revise and resubmit at International Studies Quarterly* 
-- Reassessing the Public Goods Model of Alliances - (2020)
+- Reassessing the Public Goods Model of Alliances - (2020) *Revise and resubmit at Research & Politics* 
 - Democracy, Elections and Alliance Treaty Depth - (2020)
 - [Budget Breaker? The Financial Cost of U.S. Military Alliances](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694077) - with Matthew Fuhrmann (2020)
 - Post-Civil War Conflict Management Institutions and FDI -  with Caroline Hartzell (2020)
