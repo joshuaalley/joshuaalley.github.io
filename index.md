@@ -12,7 +12,7 @@ bigimg:
 I am a Postdoctoral Research Associate with the [Democratic Statecraft Lab](http://statecraftlab.virginia.edu/) at the University of Virginia.
 My research interests center on the political economy of security, with a particular focus on formal institutions. 
 My core research agenda explores the relationship between alliance participation and military spending, along with the domestic politics of alliances. 
-Other working papers examine the political economy of intra-state conflict.
+Other working papers examine the political economy of intra-state conflict. My work is forthcoming or published in *International Interactions* and two edited volumes. I have also written an opinion piece for *[The National Interest](https://nationalinterest.org/blog/buzz/does-indo-pacific-need-alliance-nato-170896)*. 
 
 [You can find my CV here](CV.pdf).
 
