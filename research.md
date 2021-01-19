@@ -6,7 +6,7 @@ permalink: /research/
 
 # Publications
 
-- Signaling Restraints: International Engagement and Rebel Groups’ Commitment to International Law- with Hyeran Jo, Yohan Park, and Soren Jordan. Forthcoming at *International Interactions* (2020)
+- [Signaling Restraints: International Engagement and Rebel Groups’ Commitment to International Law](https://www.tandfonline.com/doi/full/10.1080/03050629.2020.1814761)- with Hyeran Jo, Yohan Park, and Soren Jordan. *International Interactions* (2021)
 
 - "Can Blacklisting Reduce Terrorist Attacks?: The Case of the U.S. Foreign Terrorist Organization (FTO) List"- with Hyeran Jo and Brian Phillips. In *The Power of Global Performance Indicators*, ed, Beth Simmons and Judith Kelley. (2020) 
 
