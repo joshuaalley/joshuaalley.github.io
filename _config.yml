@@ -17,7 +17,7 @@ baseurl: ""
 title: Joshua K. Alley
 
 # Short description of your site
-description: Political Science Ph.D. Candidate
+description: Political Science Ph.D.
 
 # --- Navigation bar options --- #
 
@@ -27,7 +27,7 @@ navbar-links:
   Teaching: "teaching" 
   Contact: "contact" 
   Resources:
-    - TAMU Political Science: "https://pols.tamu.edu/" 
+    - TAMU Political Science: "https://liberalarts.tamu.edu/pols/" 
     - GitHub Pages: "https://pages.github.com/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
