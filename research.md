@@ -17,9 +17,10 @@ permalink: /research/
 # Working Papers
 
 - Alliance Participation, Treaty Depth and Military Spending - (2020) *Revise and resubmit at International Studies Quarterly* 
-- Democracy, Elections and Alliance Treaty Depth - (2020)
-- [Budget Breaker? The Financial Cost of U.S. Military Alliances](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694077) - with Matthew Fuhrmann (2020)
-- Post-Civil War Conflict Management Institutions and FDI -  with Caroline Hartzell (2020)
+- Democracy, Elections and Alliance Treaty Depth - (2021)
+- [Budget Breaker? The Financial Cost of U.S. Military Alliances](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3694077) - with Matthew Fuhrmann (2021) "Accepted conditional on successful major revisions" at *Security Studies*.
+- Public Opinion Towards Military Alliances - (2021) 
+- Does U.S. Success Promote Democracy Abroad? - with John Owen (2021) 
 - Countering the Adaptable and Resilient: U.S. Foreign Terrorist Organization (FTO) List and Terrorist Attacks - with Hyeran Jo and Brian Phillips (2020)
-- Collective Action or Exchange?: Framing International Cooperation in Alliance Politics - (2020) 
+- Post-Civil War Conflict Management Institutions and FDI -  with Caroline Hartzell (2020)
 
