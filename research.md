@@ -18,7 +18,7 @@ permalink: /research/
 
 # Working Papers
 
-- Alliance Participation, Treaty Depth and Military Spending - (2020) *Revise and resubmit at International Studies Quarterly* 
+- Alliance Participation, Treaty Depth and Military Spending - (2020) Conditionally accepted at *International Studies Quarterly* 
 - Democracy, Elections and Alliance Treaty Depth - (2021)
 - Public Opinion Towards Military Alliances - (2021) 
 - Does U.S. Success Promote Democracy Abroad? - with John Owen (2021) 
