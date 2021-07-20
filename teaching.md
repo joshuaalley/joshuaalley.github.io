@@ -4,6 +4,14 @@ title: "Teaching"
 permalink: /teaching/ 
 ---
 
+My teaching has two goals.
+First, I work to equip students to understand the world by helping them develop valuable skills like writing, presentation, close reading and statistical thinking through critical engagement with political science. 
+Second, I want to help students understand how social science is relevant to their lives and interest in politics.
+Attaining these goals helps prepare students to thrive in their communities and workplaces. 
+To facilitate broad and deep student engagement with difficult or abstract concepts, I first motivate learning with big questions and relevant examples.
+I then help students meet clear, challenging and attainable learning objectives with accessible examples, hands-on activities, supporting materials and careful organization. 
+
+
 # Spring 2021
 **The Political Economy of Security (UVA)**
 - [Syllabus](plir-3500-20309-syllabus.pdf)
