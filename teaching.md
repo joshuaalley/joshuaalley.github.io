@@ -24,6 +24,8 @@ I then help students meet clear, challenging and attainable learning objectives 
 
 # Repository of Articles and Replication Data for Political Science Articles with Cross-Sectional OLS
 
-[This repository contains replication files and citations for papers with OLS estimators and cross-sectional data.](https://github.com/joshuaalley/cross-sectional-ols) It helps students find accessible materials for replication exercises of published studies.  
+[This repository contains replication data and citations for papers with OLS estimators and cross-sectional data.](https://github.com/joshuaalley/cross-sectional-ols) It helps teachers and students find accessible examples for replications of published studies.  
+
+For a longer introduction, see [this blog post at *The Political Methodologist*](https://polmeth.org/blog/open-collection-political-science-research-ols-models-and-cross-sectional-data).
 
 
