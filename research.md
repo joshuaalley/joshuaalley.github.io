@@ -5,17 +5,17 @@ permalink: /research/
 ---
 
 # Publications
-- Alliance Participation, Treaty Depth and Military Spending - (2021) Forthcoming at *International Studies Quarterly*.
+- (2021) [Alliance Participation, Treaty Depth and Military Spending](https://academic.oup.com/isq/advance-article-abstract/doi/10.1093/isq/sqab077/6372132) - *International Studies Quarterly* [[Github](https://github.com/joshuaalley/arms-allies)] 
 
-- Budget Breaker? The Financial Cost of U.S. Military Alliances- with Matthew Fuhrmann (2021) Forthcoming at *Security Studies*.
+- (2021) Budget Breaker? The Financial Cost of U.S. Military Alliances- with Matthew Fuhrmann Forthcoming at *Security Studies*.
 
-- [Reassessing the Public Goods Model of Alliances](https://journals.sagepub.com/doi/10.1177/20531680211005225)-  *Research & Politics* (2021) [[Github](https://github.com/joshuaalley/public-goods-test)]
+- (2021) [Reassessing the Public Goods Model of Alliances](https://journals.sagepub.com/doi/10.1177/20531680211005225)-  *Research & Politics* (2021) [[Github](https://github.com/joshuaalley/public-goods-test)]
 
-- [Signaling Restraints: International Engagement and Rebel Groups’ Commitment to International Law](https://www.tandfonline.com/doi/full/10.1080/03050629.2020.1814761)- with Hyeran Jo, Yohan Park, and Soren Jordan. *International Interactions* (2021)
+- (2021) [Signaling Restraints: International Engagement and Rebel Groups’ Commitment to International Law](https://www.tandfonline.com/doi/full/10.1080/03050629.2020.1814761)- with Hyeran Jo, Yohan Park, and Soren Jordan. *International Interactions* 
 
-- "Can Blacklisting Reduce Terrorist Attacks?: The Case of the U.S. Foreign Terrorist Organization (FTO) List"- with Hyeran Jo and Brian Phillips. In *The Power of Global Performance Indicators*, ed, Beth Simmons and Judith Kelley. (2020) 
+- (2020) "Can Blacklisting Reduce Terrorist Attacks?: The Case of the U.S. Foreign Terrorist Organization (FTO) List"- with Hyeran Jo and Brian Phillips. In *The Power of Global Performance Indicators*, ed, Beth Simmons and Judith Kelley. (2020) 
 
-- "Janus-faced: rebel groups and human rights responsibility"- with Hyeran Jo. In *Expanding Rights*, ed, Alison Brysk and Michael Stohl. (2017)
+- (2017) "Janus-faced: rebel groups and human rights responsibility"- with Hyeran Jo. In *Expanding Rights*, ed, Alison Brysk and Michael Stohl. (2017)
 
 
 # Working Papers
