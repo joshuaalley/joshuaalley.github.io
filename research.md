@@ -20,9 +20,10 @@ permalink: /research/
 
 # Working Papers
 
-- Democracy, Elections and Alliance Treaty Depth - (2021)
+- Why Democratic Alliances Endure - (2021)
 - Elite Cues and Public Attitudes Towards Military Alliances - (2021) 
-- Tripwires, Casualties, and Public Support for War - with Todd Sechser (2021)
+- Economic Bargaining in Asymmetric Alliances - (2021) 
+- Extended Deterrence, Casualties, and Public Support for War - with Todd Sechser (2021)
 - Does U.S. Success Promote Democracy Abroad? - with John Owen (2021) 
 - Countering the Adaptable and Resilient: U.S. Foreign Terrorist Organization (FTO) List and Terrorist Attacks - with Hyeran Jo and Brian Phillips (2021)
 - Post-Civil War Conflict Management Institutions and FDI -  with Caroline Hartzell (2021)
