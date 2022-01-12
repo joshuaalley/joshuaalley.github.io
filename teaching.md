@@ -11,6 +11,9 @@ Attaining these goals helps prepare students to thrive in their communities and 
 To facilitate broad and deep student engagement with difficult or abstract concepts, I first motivate learning with big questions and relevant examples.
 I then help students meet clear, challenging and attainable learning objectives with accessible examples, hands-on activities, supporting materials and careful organization. 
 
+# Spring 2022
+**Foreign Policy Mistakes (UVA)**
+- [Syllabus](fp-mistakes-syllabus.pdf)
 
 # Spring 2021
 **The Political Economy of Security (UVA)**
