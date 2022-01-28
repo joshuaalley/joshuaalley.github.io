@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 # Publications
-- (2022) [Budget Breaker? The Financial Cost of U.S. Military Alliances](https://www.tandfonline.com/doi/full/10.1080/09636412.2021.2021280)- with Matthew Fuhrmann. *Security Studies*. [[Github](https://github.com/joshuaalley/us-alliances-milex)]
+- (2021) [Budget Breaker? The Financial Cost of U.S. Military Alliances](https://www.tandfonline.com/doi/full/10.1080/09636412.2021.2021280)- with Matthew Fuhrmann. *Security Studies*. [[Github](https://github.com/joshuaalley/us-alliances-milex)]
 
 - (2021) [Alliance Participation, Treaty Depth and Military Spending](https://academic.oup.com/isq/advance-article-abstract/doi/10.1093/isq/sqab077/6372132) - *International Studies Quarterly* [[Github](https://github.com/joshuaalley/arms-allies)] 
 
