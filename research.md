@@ -20,8 +20,8 @@ permalink: /research/
 
 # Selected Working Papers
 
+- Elite Cues and Public Attitudes Towards Military Alliances- Revise and resubmit, *Journal of Conflict Resolution*
 - Why Democratic Alliances Endure
-- Elite Cues and Public Attitudes Towards Military Alliances
 - Economic Bargaining in Asymmetric Alliances
 - Extended Deterrence, Casualties, and Public Support for War - with Todd Sechser
 - Does U.S. Success Promote Democracy Abroad? - with John Owen
