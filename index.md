@@ -10,6 +10,7 @@ bigimg:
 ---
 
 I am a Postdoctoral Research Associate with the [Democratic Statecraft Lab](http://statecraftlab.virginia.edu/) and [Department of Politics](https://politics.virginia.edu/) at the University of Virginia.
+Starting in fall 2022, I will be a Lecturer/Assistant Professor in the [School of Politics and International Relations](https://www.ucd.ie/spire/) at University College Dublin. 
 My research focuses on international relations, with an emphasis on alliance politics and the political economy of security.
 In my work, I explore when alliance participation increases or decreases military spending, how elections shape alliance politics, and the role of public opinion in alliances. 
 Other working papers examine the political economy of intra-state conflict. 
@@ -19,4 +20,4 @@ My work is published or forthcoming in *International Studies Quarterly*, *Resea
 
 I received a Ph.D. from Texas A&M University in August 2020, and hold a bachelor of arts from Gettysburg College (2015).  
 
-Together with Rosella Capella Zielinski, Kaija Schilde, Alexander Kirss and Ben Fordham, I am co-organizing an online workship series in the Political Economy of Security. The workshop gives scholars opportunities to receive constructive feedback and discuss bridging the nexus of political economy and security. You can find the workshop schedule [here](http://www.bu.edu/pardeeschool/research/project-on-the-political-economy-of-security/). 
+Together with Rosella Capella Zielinski, Kaija Schilde, Ben Fordham and Mark Wilson, I am co-organizing an online workship series in the Political Economy of Security. The workshop gives scholars opportunities to receive constructive feedback and discuss bridging the nexus of political economy and security. You can find the workshop schedule [here](http://www.bu.edu/pardeeschool/research/project-on-the-political-economy-of-security/). 
