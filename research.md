@@ -21,10 +21,10 @@ permalink: /research/
 # Selected Working Papers
 
 - Elite Cues and Public Attitudes Towards Military Alliances- Revise and resubmit, *Journal of Conflict Resolution*
-- Why Democratic Alliances Endure
-- Economic Bargaining in Asymmetric Alliances
+- Do Nuclear Threats Provoke or Intimidate?
+- Alliances, Arms Exports and Electoral Trade Cycles
 - Extended Deterrence, Casualties, and Public Support for War - with Todd Sechser
-- Does U.S. Success Promote Democracy Abroad? - with John Owen
-- Countering the Adaptable and Resilient: U.S. Foreign Terrorist Organization (FTO) List and Terrorist Attacks - with Hyeran Jo and Brian Phillips
-- Rumors of Boogaloo: Media and Support for Militant Right-Wing Extremism in the United States - with Layla Picard and Philip Potter
+- U.S. Performance and Public Support for Democracy Abroad - with John Owen
+- Do Financial Sanctions Reduce Terrorist Violence? - with Hyeran Jo and Brian Phillips
+- Popular Support for Militant Right-Wing Extremist Organizations in the United States - with Layla Picard and Philip Potter
 
