@@ -20,7 +20,7 @@ permalink: /research/
 
 # Selected Working Papers
 
-- Elite Cues and Public Attitudes Towards Military Alliances- Revise and resubmit, *Journal of Conflict Resolution*
+- Elite Cues and Public Attitudes Towards Military Alliances- Conditionally accepted, *Journal of Conflict Resolution*
 - Do Nuclear Threats Provoke or Intimidate?
 - Alliances, Arms Exports and Electoral Trade Cycles
 - Extended Deterrence, Casualties, and Public Support for War - with Todd Sechser
