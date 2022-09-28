@@ -5,6 +5,8 @@ permalink: /research/
 ---
 
 # Publications
+- Elite Cues and Public Attitudes Towards Military Alliances. Accepted, *Journal of Conflict Resolution*
+
 - (2021) [Budget Breaker? The Financial Cost of U.S. Military Alliances](https://www.tandfonline.com/doi/full/10.1080/09636412.2021.2021280)- with Matthew Fuhrmann. *Security Studies*. [[Github](https://github.com/joshuaalley/us-alliances-milex)]
 
 - (2021) [Alliance Participation, Treaty Depth and Military Spending](https://academic.oup.com/isq/advance-article-abstract/doi/10.1093/isq/sqab077/6372132) - *International Studies Quarterly* [[Github](https://github.com/joshuaalley/arms-allies)] 
@@ -20,7 +22,6 @@ permalink: /research/
 
 # Selected Working Papers
 
-- Elite Cues and Public Attitudes Towards Military Alliances- Conditionally accepted, *Journal of Conflict Resolution*
 - Do Nuclear Threats Provoke or Intimidate?
 - Alliances, Arms Exports and Electoral Trade Cycles
 - Extended Deterrence, Casualties, and Public Support for War - with Todd Sechser
