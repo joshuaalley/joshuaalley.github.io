@@ -5,8 +5,8 @@ permalink: /contact/
 ---
 
 # Email
-jkalley `[at]` virginia `[dot]` edu
+joshua.alley `[at]` ucd `[dot]` ie
 
 # Mailing Address
 
-514 Brandon Avenue Charlottesville, VA 22903
+G316, Newman Building, University College Dublin, Belfield, Dublin 4, Ireland.
