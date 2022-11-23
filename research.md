@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 # Publications
-- Elite Cues and Public Attitudes Towards Military Alliances. Accepted, *Journal of Conflict Resolution*
+- Elite Cues and Public Attitudes Towards Military Alliances. Forthcoming, *Journal of Conflict Resolution* [[Github](https://github.com/joshuaalley/pub-opinion-alliances)] 
 
 - (2021) [Budget Breaker? The Financial Cost of U.S. Military Alliances](https://www.tandfonline.com/doi/full/10.1080/09636412.2021.2021280)- with Matthew Fuhrmann. *Security Studies*. [[Github](https://github.com/joshuaalley/us-alliances-milex)]
 
@@ -14,6 +14,8 @@ permalink: /research/
 - (2021) [Reassessing the Public Goods Model of Alliances](https://journals.sagepub.com/doi/10.1177/20531680211005225)-  *Research & Politics* [[Github](https://github.com/joshuaalley/public-goods-test)]
 
 - (2021) [Signaling Restraints: International Engagement and Rebel Groups’ Commitment to International Law](https://www.tandfonline.com/doi/full/10.1080/03050629.2020.1814761)- with Hyeran Jo, Yohan Park, and Soren Jordan. *International Interactions* 
+
+## Chapters in Edited Volumes
 
 - (2020) "Can Blacklisting Reduce Terrorist Attacks?: The Case of the U.S. Foreign Terrorist Organization (FTO) List"- with Hyeran Jo and Brian Phillips. In *The Power of Global Performance Indicators*, ed, Beth Simmons and Judith Kelley. (2020) 
 
