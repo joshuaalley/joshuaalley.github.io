@@ -24,10 +24,10 @@ permalink: /research/
 
 # Selected Working Papers
 
+- Arms and Electoral Influence: How Arms Deals with Autocracies Shape Defense Contracting in the United States
 - Do Nuclear Threats Provoke or Intimidate?
-- Alliances, Arms Exports and Electoral Trade Cycles
 - Extended Deterrence, Casualties, and Public Support for War - with Todd Sechser
 - U.S. Performance and Public Support for Democracy Abroad - with John Owen
 - Do Financial Sanctions Reduce Terrorist Violence? - with Hyeran Jo and Brian Phillips
-- Popular Support for Militant Right-Wing Extremist Organizations in the United States - with Layla Picard and Philip Potter
+- Tolerance for Militant Right-Wing Extremist Organizations in the United States - with Layla Picard and Philip Potter
 
