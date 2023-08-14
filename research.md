@@ -27,7 +27,7 @@ permalink: /research/
 - Arms and Electoral Influence: How Arms Deals with Autocracies Shape Defense Contracting in the United States
 - Do Nuclear Threats Provoke or Intimidate?
 - Extended Deterrence, Casualties, and Public Support for War - with Todd Sechser
-- U.S. Performance and Public Support for Democracy Abroad - with John Owen
+- Post-Civil War Conflict Management Institutions and Foreign Direct Investment - with Caroline Hartzell.
 - Do Financial Sanctions Reduce Terrorist Violence? - with Hyeran Jo and Brian Phillips
 - Tolerance for Militant Right-Wing Extremist Organizations in the United States - with Layla Picard and Philip Potter
 
