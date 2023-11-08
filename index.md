@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Joshua K. Alley"
+title: "Joshua Alley"
 subtitle: " "
 css: "/css/index.css"
 meta-title: "Joshua Alley"
