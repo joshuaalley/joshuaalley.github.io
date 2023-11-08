@@ -24,9 +24,10 @@ permalink: /research/
 
 # Selected Working Papers
 
-- Arms and Electoral Influence: How Arms Deals with Autocracies Shape Defense Contracting in the United States
-- Do Nuclear Threats Provoke or Intimidate?
-- Extended Deterrence, Casualties, and Public Support for War - with Todd Sechser
+- Arms and Electoral Influence: Arms Deals with Autocracies, Defense Contracting and U.S. Presidential Elections [[Github](https://github.com/joshuaalley/arms-elections)]
+- Provocation, Intimidation, and Nuclear Threats
+- Using Hierarchical Models to Estimate Heterogeneous Effects'' [[Pre-Print](https://osf.io/preprints/socarxiv/2e9zh/)]
+- Provocation, Intimidation, and Military Casualties in Extended Deterrence - with Todd Sechser
 - Post-Civil War Conflict Management Institutions and Foreign Direct Investment - with Caroline Hartzell.
 - Do Financial Sanctions Reduce Terrorist Violence? - with Hyeran Jo and Brian Phillips
 - Tolerance for Militant Right-Wing Extremist Organizations in the United States - with Layla Picard and Philip Potter
