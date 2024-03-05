@@ -24,7 +24,7 @@ permalink: /research/
 
 # Selected Working Papers
 
-- Arms and Electoral Influence: Arms Deals with Autocracies, Defense Contracting and U.S. Presidential Elections [[Github](https://github.com/joshuaalley/arms-elections)]
+- Arms and Electoral Influence: Arms Deals with Autocracies, Defense Contracting and U.S. Presidential Elections- Revise and resubmit, *Journal of Politics* [[Github](https://github.com/joshuaalley/arms-elections)]
 - Provocation, Intimidation, and Nuclear Threats
 - Using Hierarchical Models to Estimate Heterogeneous Effects'' [[Pre-Print](https://osf.io/preprints/socarxiv/2e9zh/)]
 - Provocation, Intimidation, and Military Casualties in Extended Deterrence - with Todd Sechser
