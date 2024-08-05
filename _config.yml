@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Joshua K. Alley
+title: Joshua Alley
 
 # Short description of your site
 description: Political Science Ph.D.
@@ -24,6 +24,7 @@ description: Political Science Ph.D.
 # List of links in the navigation bar
 navbar-links:
   Research: "research"
+  Book: "book"
   Teaching: "teaching" 
   Contact: "contact" 
   Resources:
@@ -72,8 +73,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: false
-  email: "jkalley@virginia.edu"
+  email: "joshua.alley@ucd.ie"
   github: joshuaalley
+  linkedin: joshuakalley
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -93,7 +95,7 @@ share-links-active:
   twitter: false
   facebook: false
   google: false
-  linkedin: false
+  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
