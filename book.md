@@ -1,14 +1,14 @@
 ---
 layout: page
-title: "Book Project: Alliance Politics in Democracies"
+title: "Alliance Politics in Democracies"
 permalink: /book/
 ---
 
 
-# Book Summary
+# Book Project Summary
 
 Does democracy reinforce or undermine alliance credibility?
-*Alliance Politics in Democracies* addresses this longstanding debate by explaining when democracies make strong, weak, or volatile commitments.
+I address this longstanding debate in my ongoing book project by explaining when democracies make strong, weak, or volatile commitments.
 I argue that coalitions of economic, security and political elites determine democratic commitment.
 Robust elite coalitions help alliance supporters win power and constrain alliance skeptics.
 Each group in the coalition supports alliance commitment for different reasons, creating a form of "log-rolling for alliances."
