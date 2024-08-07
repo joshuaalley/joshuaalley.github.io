@@ -19,32 +19,24 @@ For a longer introduction, see [this blog post at *The Political Methodologist*]
 
 # Courses
 
-## Fall 2023
-**International Relations Theories and Concepts**
-- [Syllabus](intro-ir-syllabus.pdf)
+## International Relations Theories and Concepts 
+**Fall 2023, Fall 2024**
+- [Fall 2023 Syllabus](intro-ir-syllabus.pdf)
 
-## Spring 2023
-**Connected_Politics**
-- [Syllabus](2023-spring-connected-politics.pdf)
+## Connected_Politics
+**Spring 2023, Fall/Spring 2024**
+- [Spring 2023 Syllabus](2023-spring-connected-politics.pdf)
   
-**Foreign Policy Mistakes**
-
-## Fall 2022
-**The Political Economy of Security**
-- [Syllabus](pol-42440-syllabus.pdf)
-
-
-## Spring 2022
-**Foreign Policy Mistakes (UVA)**
+## Foreign Policy Mistakes
+**Spring 2022, Spring 2023, Spring 2025**
 - [Syllabus](fp-mistakes-syllabus.pdf)
 
-## Spring 2021
-**The Political Economy of Security (UVA)**
-- [Syllabus](plir-3500-20309-syllabus.pdf)
+## The Political Economy of Security 
+**Spring 2021, Fall 2022, Spring 2024**
+- [Spring 2021 Syllabus](plir-3500-20309-syllabus.pdf)
 
-
-## Fall 2019 & Spring 2020 
-**Introduction to Research Methods (TAMU)**:
+## Introduction to Research Methods
+**Fall 2019 & Spring 2020**:
 - [Course Website Spring 2020](https://joshuaalley.github.io/pols-209/)
 
 
