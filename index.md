@@ -4,14 +4,14 @@ title: "Joshua Alley"
 subtitle: " "
 css: "/css/index.css"
 meta-title: "Joshua Alley"
-meta-description: "Assistant Professor at University College Dublin"
+meta-description: "Assistant Professor at Baylor University"
 bigimg:
-  - "/img/20220819_203350.jpg" 
+  - "/img/tx-trail.png" 
 ---
 
 I am an Assistant Professor in the [Department of Political Science](https://politicalscience.artsandsciences.baylor.edu/) at Baylor University. 
-My research focuses on international relations, with an emphasis on alliance politics and the political economy of security.
-In my work, I explore democracy and foreign policy, the financial and political consequencs of alliances, and the political economy of security.
+My research focuses on international relations, with an emphasis on alliance politics and political economy.
+I am especially interested in democracy and foreign policy, the financial and political consequences of alliances, and the political economy of security.
 My work is published in *The Journal of Politics*, *International Studies Quarterly*, *The Journal of Conflict Resolution*, *Research & Politics*, *Security Studies*, *International Interactions* and two edited volumes. I have also written for *[The Irish Independent](https://m.independent.ie/opinion/comment/joshua-alley-ireland-is-admired-for-its-un-peacekeeping-but-defence-leaves-a-fair-bit-to-be-desired/a2095372660.html)*, *[E-International Relations](https://www.e-ir.info/2023/10/21/what-do-we-know-about-alliances-and-military-spending/)* and *[The National Interest](https://nationalinterest.org/blog/buzz/does-indo-pacific-need-alliance-nato-170896)*. 
 
 [You can find my CV here](CV.pdf).
