@@ -5,8 +5,10 @@ permalink: /contact/
 ---
 
 # Email
-joshua.alley `[at]` ucd `[dot]` ie
+Joshua_Alley `[at]` baylor `[dot]` edu
 
 # Mailing Address
 
-G316, Newman Building, University College Dublin, Belfield, Dublin 4, Ireland.
+One Bear Place #97276 Waco, TX 76798-7276
+
+
