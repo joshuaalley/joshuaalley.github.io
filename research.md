@@ -5,9 +5,11 @@ permalink: /research/
 ---
 
 # Publications
-- 2025 Do Financial Sanctions Reduce Terrorist Violence? - with Hyeran Jo and Brian Phillips. Forthcoming, *Security Studies* 
+- (2026) [Arms and Elections: Arms Deals with Autocracies, Defense Contracting and U.S. Presidential Elections](https://www.journals.uchicago.edu/doi/10.1086/734278) *The Journal of Politics* [[Github](https://github.com/joshuaalley/arms-elections)]
 
-- (2024) [Arms and Elections: Arms Deals with Autocracies, Defense Contracting and U.S. Presidential Elections](https://www.journals.uchicago.edu/doi/10.1086/734278) *The Journal of Politics* [[Github](https://github.com/joshuaalley/arms-elections)]
+- (2026) [Attitudes Towards Extremist Organizations in the United States](https://journals.sagepub.com/doi/abs/10.1177/00220027261421124) - with Layla Picard and Philip Potter *Journal of Conflict Resolution*
+
+- (2026) Do Financial Sanctions Reduce Terrorist Violence? - with Hyeran Jo and Brian Phillips. Forthcoming, *Security Studies* 
 
 - (2023) [Elite Cues and Public Attitudes Towards Military Alliances](https://journals.sagepub.com/doi/10.1177/00220027221143963) - *Journal of Conflict Resolution* [[Github](https://github.com/joshuaalley/pub-opinion-alliances)] 
 
@@ -28,12 +30,12 @@ permalink: /research/
 
 # Selected Working Papers
 
-- Tolerance for Militant Right-Wing Extremist Organizations in the United States - with Layla Picard and Philip Potter *Revise and resubmit*
 - Provocation, Intimidation, and Military Casualties in Extended Deterrence - with Todd Sechser *Revise and resubmit* 
-- Is Alliance Credibility Interdependent - with Brian Blankenship [[Pre-Print](https://osf.io/preprints/osf/p59ju)]
-- Assessing the Effectiveness of Nuclear Threats [[Pre-Print](https://osf.io/preprints/osf/dj52u)]
+- Is Alliance Credibility Interdependent? - with Brian Blankenship [[Pre-Print](https://osf.io/preprints/osf/p59ju)]
+- Conventional Aggression, Nuclear Threats, and Support for Intervention [[Pre-Print](https://osf.io/preprints/osf/dj52u)]
 - Using Hierarchical Models to Estimate Heterogeneous Effects'' [[Pre-Print](https://osf.io/preprints/socarxiv/2e9zh/)]
 - Combat Experience and Attitudes Towards Force - with Todd Sechser
+
 
 
 
